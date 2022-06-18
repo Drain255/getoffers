@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+sundae.com	TRUE	/offers/fb/	FALSE	1999999999	ubpv	aq%2C5aea5216-fe2a-468d-8dd5-f9c31a0d2c8b
+sundae.com	TRUE	/	FALSE	1999999999	ubvs	4621fb6b-a1da-4661-93a5-161b0e93a1a9
+sundae.com	TRUE	/	FALSE	1999999999	ubvt	4621fb6b-a1da-4661-93a5-161b0e93a1a9
+sundae.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
